@@ -2,8 +2,11 @@
 from autowired.autowired import w as ok
 
 op=ok()
+
 p2=ok()
+
 @op.regist
+
 class person:
 	name=2
 	age=2
