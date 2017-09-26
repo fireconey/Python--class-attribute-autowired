@@ -31,6 +31,9 @@ class ui:
 
 class gh:
 	name=[]
+	
 	age=[]
+	
 print(op.name)
+
 print(gh.name) 
