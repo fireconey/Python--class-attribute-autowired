@@ -12,15 +12,23 @@ class person:
 	age=2
 
 @op.auto
+
 class op:
+
 	name=[]
+	
 	age=[]
 
 @p2.regist
+
 class ui:
+
 	name=34
+	
 	age=67
+	
 @p2.auto
+
 class gh:
 	name=[]
 	age=[]
